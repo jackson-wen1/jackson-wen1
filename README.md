@@ -44,9 +44,9 @@ Currently, I’m working with the **Ontario Public Service** and expanding my kn
 
 <div align="center">
 
-![Jackson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ternasius&show_icons=true&theme=transparent&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ternasius&layout=compact&theme=transparent&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=ternasius&theme=transparent&hide_border=true)
+![Jackson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jackson-wen1&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-wen1&layout=compact&theme=transparent&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=jackson-wen1&theme=transparent&hide_border=true)
 
 </div>
 
@@ -55,7 +55,7 @@ Currently, I’m working with the **Ontario Public Service** and expanding my kn
 ## Links & Contact
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2E8B57?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jacksonwen.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-ternasius-181717?style=for-the-badge&logo=github)](https://github.com/ternasius)
+[![GitHub](https://img.shields.io/badge/GitHub-jackson--wen1-181717?style=for-the-badge&logo=github)](https://github.com/jackson-wen1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jackson--wen-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jackson-wen/)
 [![Itch.io](https://img.shields.io/badge/Itch.io-ternasius-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://ternasius.itch.io)
 [![Email](https://img.shields.io/badge/Email-jackbs.wen2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jackbs.wen2004@gmail.com)
