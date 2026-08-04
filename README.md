@@ -1,12 +1,12 @@
 # Jackson Wen  
 
-### Software Developer | Game Creator | Problem Solver  
+### Software Developer | Game Developer
 
-I’m a software developer based in **Ontario, Canada**, with a strong interest in **web development**, **game design**, and **interactive systems**.  
+I’m a software developer based in Canada, with a strong interest in web development, game design, and interactive systems.  
 I enjoy building projects that merge creativity with logic, from scalable web applications to immersive Unity games.  
-Currently, I’m working with the **Ontario Public Service** and expanding my knowledge in **DevOps and AI technologies**.  
+Currently, I’m working with the Ontario Public Service and expanding my knowledge in DevOps and AI technologies.  
 
-🌐 **Portfolio:** [jacksonwen.netlify.app](https://jacksonwen.netlify.app)
+🌐 **Portfolio:** [jackson-wen.vercel.app/](https://jackson-wen.vercel.app/)
 
 ---
 
